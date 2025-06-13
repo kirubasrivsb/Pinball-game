@@ -1,0 +1,123 @@
+🎮 Pinball Game
+
+A simple and exciting Pinball Game built using Python and Pygame. Bounce the ball, hit bumpers, and rack up points! This project demonstrates basic game physics, collision detection, and interactive graphics
+
+🧩 Features
+
+Classic pinball mechanics
+
+Ball physics and collisions
+
+Score tracking
+
+Sound effects
+
+Game over and restart functionality
+
+
+
+---
+
+🚀 Getting Started
+
+Prerequisites
+
+Python 3.x
+
+Pygame library
+
+
+Install Pygame using pip:
+
+pip install pygame
+
+
+---
+
+🛠️ How to Run
+
+1. Clone this repository or download the source code.
+
+
+2. Navigate to the project folder.
+
+
+3. Run the Python file:
+
+
+
+python pinball.py
+
+
+---
+
+🎮 Controls
+
+Left Arrow / A – Left flipper
+
+Right Arrow / D – Right flipper
+
+Spacebar – Launch ball
+
+R – Restart game
+
+
+
+---
+
+📸 Screenshots
+
+(Add screenshots of the gameplay here for better clarity)
+
+
+---
+
+📂 Project Structure
+
+pinball-game/
+├── assets/           # Images and sounds
+├── pinball.py        # Main game code
+├── README.md         # Project readme
+
+
+---
+
+📌 Concepts Used
+
+Object-Oriented Programming
+
+Game loops and events
+
+Collision detection
+
+Sprite management
+
+
+
+---
+
+🧠 Future Improvements
+
+Add multiple levels
+
+Include power-ups
+
+Online leaderboard
+
+Mobile version
+
+
+
+---
+
+🙋‍♀️ Author
+
+Kaviya Prabha
+For queries or suggestions, feel free to connect!
+
+
+---
+
+📄 License
+
+This project is open-source and available under the [MIT
